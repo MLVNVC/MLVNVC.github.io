@@ -1,0 +1,39 @@
+p {
+    color:black;
+    width: 500px;
+    border: 1px solid black;
+}
+html {
+    font-size: 14px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Times New Roman", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+    background-color: azure;
+   }
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1x blackS;
+  }
+img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+    
